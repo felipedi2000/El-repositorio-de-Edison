@@ -1,0 +1,31 @@
+dependiencias: son los modulos de los cualees esta hecho mi rpoyecto como librerias o lenguajes
+public cpontiene los archivos que se mostrararn en un navegador web
+gitignore son los archivos que queremos que ignore y q8e no suba al repositorio
+
+
+contr crt+c detenemos servido
+
+
+
+
+en la carpeta assets ira todo los recursos como imagenes iconos y letras
+
+
+
+la carpetra utilies, en ella iran todas las funciones que se usaran y que ssern utilies para la aplicaicon
+estas funciones puden procesar datos, como tal no son componentes pero procesan datos las funciones son importables
+desde cualquier lugar segun lo necesite
+
+
+services en esta estan los servicios o hablidades de la aplicacion, todo lo referente a intercambio de datos
+
+
+pages o viewes contiene las paginas o vistas de una aplicacion
+
+routes  en esta ira en control de navegacion, como ira el cambio entre pantallas, atravez del archivo rutas
+si la ruta es una haga tal cosa y asi para poder pasar de vistas
+
+themes colorwes y demas
+
+
+se crea una carpeta por cada componente y se crea un archivo .tsx al usar typescript
