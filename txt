@@ -29,3 +29,10 @@ themes colorwes y demas
 
 
 se crea una carpeta por cada componente y se crea un archivo .tsx al usar typescript
+
+
+cuando se le envia parametros a un componente estos van en json ´por lo que tenemos extraer las propiedades que pudimos
+
+
+
+en styles es ts o js   en el que iran los estilos para uq elos componentes queden mas limpios 

@@ -1,7 +1,8 @@
 import React from 'react'
 
-export const MyBoton = () => {
+export const MyBoton = () => {    // nombre de la funcion es el nombre del componente, la primera siempre es 
+                              // en mayuscula
   return (
-    <div>MyBoton</div>
+    <div>edison felipe leon</div>
   )
 }
